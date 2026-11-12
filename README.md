@@ -1,1 +1,1 @@
-<p align="center"><sub>make it count</sub></p>
+<p align="center">make it count</p>
